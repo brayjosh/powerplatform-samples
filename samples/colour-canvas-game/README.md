@@ -28,7 +28,7 @@ A single player colour memory game built in Power Apps. A random colour appears 
 
 ## Contributors
 
-* [Josh Bray](https://github.com/brayjosh)
+* [joshua](https://github.com/brayjosh)
 
 ## Version history
 

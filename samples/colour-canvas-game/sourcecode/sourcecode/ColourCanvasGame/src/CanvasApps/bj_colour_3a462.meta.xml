@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>bj_colour_3a462</Name>
-  <AppVersion>2026-06-08T17:58:00Z</AppVersion>
+  <AppVersion>2026-07-15T18:14:09Z</AppVersion>
   <Status>Ready</Status>
-  <CreatedByClientVersion>3.26054.13.0</CreatedByClientVersion>
-  <MinClientVersion>3.26054.13.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"3439","primaryDeviceHeight":"1204","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.26054.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","m365CopilotSettingValue":"0","sienaVersion":"20260608T175800Z-3.26054.13.0"}</Tags>
+  <CreatedByClientVersion>3.26065.8.0</CreatedByClientVersion>
+  <MinClientVersion>3.26065.8.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1527","primaryDeviceHeight":"629","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.26065.8","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","m365CopilotSettingValue":"0","sienaVersion":"20260608T175800Z-3.26054.13.0"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
