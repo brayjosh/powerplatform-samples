@@ -34,7 +34,7 @@ A single player colour memory game built in Power Apps. A random colour appears 
 
 Version|Date|Comments
 -------|----|--------
-1.0|June 8, 2025|Initial release
+1.0|June 8, 2026|Initial release
 
 ## Prerequisites
 
@@ -44,7 +44,7 @@ None. No connectors, no Dataverse, no premium licence required.
 
 ### Using the solution zip
 
-* [Download](./solution/ColourCanvasGame.zip) the `.zip` from the `solution` folder
+* [Download](./solution/colour-canvas-game.zip) the `.zip` from the `solution` folder
 * Within **Power Apps Studio**, import the solution `.zip` file using **Solutions** > **Import Solution** and select the `.zip` file you just downloaded
 * Open the app and select **Play**
 
@@ -54,7 +54,7 @@ None. No connectors, no Dataverse, no premium licence required.
 * Pack the source files back into a solution `.zip` file:
 
 ```bash
-  pac solution pack --zipfile ColourCanvasGame.zip --folder sourcecode --processCanvasApps
+  pac solution pack --zipfile colour-canvas-game.zip --folder sourcecode/ColourCanvasGame/src --processCanvasApps
 ```
 
 * Within **Power Apps Studio**, import the solution `.zip` file using **Solutions** > **Import Solution** and select the `.zip` file you just packed
